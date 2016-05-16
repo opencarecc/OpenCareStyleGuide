@@ -7,7 +7,7 @@ Hello, here is where you find all the info to work with http://opencare.cc relat
   - the file naming convention works in this way: OC-file_description-version-destination.png/svg See details below about each and any part of the file naming convention, and please keep it consistent when creating new assets
     - *OC* stands for OpenCare
     - *file_description* should be brief and please use underscore in place of spaces (snake case)
-    - *version* is optional
+    - *version* is optional and can track different versions or translations of a file
     - *destination* is usually "print" (300 dpi) or "web" (72 dpi)
 
 - Included icons are part of a larger collection called Material Design (https://design.google.com/icons/) released under the [Creative Common Attribution 4.0 International License (CC-BY 4.0)](http://creativecommons.org/licenses/by/4.0/)
